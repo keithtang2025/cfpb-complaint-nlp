@@ -72,7 +72,7 @@ Six risk categories modelled on CFPB enforcement priorities, detected via cosine
 
 ### Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/cfpb-complaint-nlp.git
+git clone https://github.com/keithtang2025/cfpb-complaint-nlp.git
 cd cfpb-complaint-nlp
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
