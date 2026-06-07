@@ -127,6 +127,6 @@ cfpb-complaint-nlp/
 ## Author
 
 **Keith Tang**  
-Master of Actuarial Studies (Dean's List), UNSW · CFA Level III Candidate  
+
 Former Investment Analytics & Strategy Lead, TriTree Capital  
-[LinkedIn](https://linkedin.com/in/keithtang) · [Kaggle](https://kaggle.com/keithtang)
+[Kaggle](https://kaggle.com/tangtszkwong)
